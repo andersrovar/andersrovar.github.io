@@ -23,7 +23,7 @@ _Journal of Geophysical Research: Atmospheres_ 2022
 [Spectral Analysis of Individual TGFs Detected by ASIM](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035347)
 _Journal of Geophysical Research: Atmospheres_ 2021
 
-[The 3rd AGILE TGF Catalog. Part I: Association to Lightning Sferics](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JD031985)
+[The 3rd AGILE TGF Catalog. Part I: Association to Lightning Sferics](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JD031985)<br>
 _Journal of Geophysical Research: Atmospheres_ 2020
 
 
