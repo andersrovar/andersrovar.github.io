@@ -11,3 +11,7 @@ Hate speech detection is the automated task of determining whether a piece of te
 #[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
 
 ---
+
+
+### Publications
+Please visit my [orcid](https://orcid.org/0000-0002-0723-0920) for a complete list of publications. 
