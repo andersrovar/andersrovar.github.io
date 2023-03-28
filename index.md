@@ -1,10 +1,11 @@
-## Selected projects in data science, machine learning and NLP
 
 
 
 
 
 <!---
+## Selected projects in data science, machine learning and NLP
+
 ---
 ### Deep NLP for hate speech detection
 
@@ -18,7 +19,7 @@ Hate speech detection is the automated task of determining whether a piece of te
 ---
 
 
-### Selected Publications
+## Selected Publications
 [Very-high-frequency oscillations in the main peak of a magnetar giant flare](https://www.nature.com/articles/s41586-021-04101-1)<br>
 _Nature_ 22. des. 2021
 
