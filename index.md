@@ -23,6 +23,8 @@ I have worked in different data science, machine learning, and NLP project. Plea
 [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 ![](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
+![](http://img.shields.io/badge/Paper-arXiv.2004.10934-B3181B?logo=arXiv)
+
 ### Selected Publications
 [Very-high-frequency oscillations in the main peak of a magnetar giant flare](https://www.nature.com/articles/s41586-021-04101-1)<br>
 _Nature_ 22. des. 2021
