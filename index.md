@@ -14,13 +14,13 @@ Hate speech detection is the automated task of determining whether a piece of te
 
 
 ### Selected Publications
-[Very-high-frequency oscillations in the main peak of a magnetar giant flare](https://www.nature.com/articles/s41586-021-04101-1)
+[Very-high-frequency oscillations in the main peak of a magnetar giant flare](https://www.nature.com/articles/s41586-021-04101-1)<br>
 _Nature_ 22. des. 2021
 
-[Production of TGFs During the Early Stages of Lightning Flashes](https://doi.org/10.1029/2021JD036305)
+[Production of TGFs During the Early Stages of Lightning Flashes](https://doi.org/10.1029/2021JD036305)<br>
 _Journal of Geophysical Research: Atmospheres_ 2022
 
-[Spectral Analysis of Individual TGFs Detected by ASIM](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035347)
+[Spectral Analysis of Individual TGFs Detected by ASIM](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2021JD035347)<br>
 _Journal of Geophysical Research: Atmospheres_ 2021
 
 [The 3rd AGILE TGF Catalog. Part I: Association to Lightning Sferics](https://agupubs.onlinelibrary.wiley.com/doi/abs/10.1029/2019JD031985)<br>
