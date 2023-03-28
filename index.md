@@ -13,5 +13,12 @@ Hate speech detection is the automated task of determining whether a piece of te
 ---
 
 
-### Publications
+### Selected Publications
+[Very-high-frequency oscillations in the main peak of a magnetar giant flare](https://www.nature.com/articles/s41586-021-04101-1)
+_Nature_ 22. des. 2021
+
+[Very-high-frequency oscillations in the main peak of a magnetar giant flare](https://www.nature.com/articles/s41586-021-04101-1)
+_Nature_ 22. des. 2021
+
+
 Please visit my [orcid](https://orcid.org/0000-0002-0723-0920) for a complete list of publications. 
