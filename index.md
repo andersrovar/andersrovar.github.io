@@ -15,7 +15,7 @@ I have worked in different data science-, machine learning-, and NLP-projects. P
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-### Selected Publications
+### Selected Scientific Publications
 [Very-high-frequency oscillations in the main peak of a magnetar giant flare](https://www.nature.com/articles/s41586-021-04101-1)<br>
 _Nature_ 22. des. 2021
 
