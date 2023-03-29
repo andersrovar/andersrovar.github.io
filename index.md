@@ -19,8 +19,6 @@ I have worked in different data science-, machine learning-, and NLP-projects. P
 https://github.com/Ileriayo/markdown-badges
 -->
 
-
-
 <br><br>
 
 ### Selected Scientific Publications
