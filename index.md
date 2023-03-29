@@ -19,6 +19,10 @@ I have worked in different data science-, machine learning-, and NLP-projects. P
 https://github.com/Ileriayo/markdown-badges
 -->
 
+
+
+<br><br>
+
 ### Selected Scientific Publications
 [Very-high-frequency oscillations in the main peak of a magnetar giant flare](https://www.nature.com/articles/s41586-021-04101-1)<br>
 _Nature_ 22. des. 2021
