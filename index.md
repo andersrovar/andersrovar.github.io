@@ -1,6 +1,6 @@
 ### Technologies
 
-I have worked in different data science-, machine learning-, and NLP-projects. Please contact [Webstep](https://www.webstep.no) for a detailjed CV. 
+I have worked in different data science-, machine learning-, and NLP-projects. Please contact [Webstep](https://www.webstep.no) for a detailed CV. 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
